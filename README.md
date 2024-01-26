@@ -1,7 +1,7 @@
 # JustWatch Web Scrapping Project
 ### Website:
-JustWatch Movies Url-  https://www.justwatch.com/in/movies?release_year_from=2000
-JustWatch Tv Shows Url - 'https://www.justwatch.com/in/tv-shows?release_year_from=2000'
+- JustWatch Movies Url-  https://www.justwatch.com/in/movies?release_year_from=2000
+- JustWatch Tv Shows Url - 'https://www.justwatch.com/in/tv-shows?release_year_from=2000'
 
 
 ### Overview
