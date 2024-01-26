@@ -29,4 +29,5 @@ The final results are saved to a CSV file, providing a structured format for eas
 1. Clone the repository to your local machine.
 2. Run the provided Python scripts to perform web scraping and data analysis.
 3. Explore the generated CSV file containing the results.
+   
 Feel free to contribute, report issues, or suggest improvements!
